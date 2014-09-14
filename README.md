@@ -1,6 +1,6 @@
 # Major-release
 
-Majordomo command to help to release new version of your project. Remember that neither npm nor bower won't work without git module because of their philosophy of package releasing (using git tags). Dont't forget to commit all wanted changes before releasing.
+[Majordomo](https://github.com/nevyk/majordomo) command to help to release new version of your project. Remember that neither npm nor bower won't work without git module because of their philosophy of package releasing (using git tags). Dont't forget to commit all wanted changes before releasing.
 
 ## Installation
 
