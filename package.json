@@ -1,0 +1,24 @@
+{
+  "name": "major-release",
+  "author": "Petr Nevyhostěný <petr.nevyhosteny@gmail.com>",
+  "version": "0.1.0",
+  "description": "Majordomo command to help to release new version of your project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nevyk/major-release"
+  },
+  "keywords": [
+    "majordomo",
+    "release"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nevyk/major-release/issues"
+  },
+  "homepage": "https://github.com/nevyk/major-release",
+  "dependencies": {
+    "majordomo": "^0.1.6"
+  }
+}
