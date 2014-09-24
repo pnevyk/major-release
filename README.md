@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-$ npm install major-release
+$ npm install -g major-release
 ```
 
 ## Usage
